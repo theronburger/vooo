@@ -501,7 +501,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":124,
          "x":0,
          "y":0
@@ -669,7 +669,7 @@
          "name":"special",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":124,
          "x":0,
          "y":0
@@ -1385,45 +1385,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":0,
-                 "id":22,
-                 "name":"scratchpad",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":35.4581987235051,
-                         "y":74.0682373335435
-                        }, 
-                        {
-                         "x":-202.505712709794,
-                         "y":75.6441572768103
-                        }, 
-                        {
-                         "x":-199.353872823261,
-                         "y":4.72775982980056
-                        }],
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/docs.google.com\/document\/d\/19Zyz7jO4b1ZbkP7-fax-3fVKPPFh4QZXnnTffQCkDpA\/edit?usp=sharing"
-                        }, 
-                        {
-                         "name":"openWebsiteClosable",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":2856.35489717122,
-                 "y":2876.84185643369
-                }, 
-                {
-                 "class":"area",
                  "height":139.389917285717,
                  "id":23,
                  "name":"diplomatique",
@@ -1530,40 +1491,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":0,
-                 "id":26,
-                 "name":"whiteboard",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":45.9719513142932,
-                         "y":129.607985880188
-                        }, 
-                        {
-                         "x":185.170593333859,
-                         "y":126.073595461351
-                        }, 
-                        {
-                         "x":212.749192341029,
-                         "y":59.0969978725079
-                        }],
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/webwhiteboard.com\/board\/k3b2U8RfjKzogXkrzoHz8r6SPsf5Kqnc\/"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":2634.93814514223,
-                 "y":2590.81238673075
-                }, 
-                {
-                 "class":"area",
                  "height":137.256375426621,
                  "id":27,
                  "name":"dichterlesen",
@@ -1598,34 +1525,26 @@
                 }, 
                 {
                  "class":"area",
-                 "height":0,
-                 "id":37,
-                 "name":"noticeboard-og",
-                 "polygon":[
+                 "height":65.2716666666665,
+                 "id":40,
+                 "name":"noticeboard-eg",
+                 "properties":[
                         {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":40.6243318366478,
-                         "y":24.5884113748129
-                        }, 
-                        {
-                         "x":57.7293136626045,
-                         "y":82.3177250374174
-                        }, 
-                        {
-                         "x":-32.0718409236688,
-                         "y":161.428265982468
-                        }, 
-                        {
-                         "x":-109.044259140474,
-                         "y":151.806713705367
-                        }, 
-                        {
-                         "x":-131.494547787043,
-                         "y":80.1796023091729
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/noticeboards.vooo.space\/?board=eg"
                         }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":182.16,
+                 "x":1568.25333333333,
+                 "y":3778.6975
+                }, 
+                {
+                 "class":"area",
+                 "height":87.9383666666663,
+                 "id":41,
+                 "name":"noticeboard-og",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1634,82 +1553,15 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":0,
-                 "x":2360.48749198204,
-                 "y":3166.55976053025
+                 "width":182.16,
+                 "x":2242.25333333333,
+                 "y":3191.36415
                 }, 
                 {
                  "class":"area",
-                 "height":0,
-                 "id":38,
-                 "name":"noticeboard-og",
-                 "polygon":[
-                        {
-                         "x":-95.146461406885,
-                         "y":59.8674363908485
-                        }, 
-                        {
-                         "x":58.7983431900789,
-                         "y":60.9364863801584
-                        }, 
-                        {
-                         "x":50.2458704511439,
-                         "y":122.942031836647
-                        }, 
-                        {
-                         "x":-33.1408613641222,
-                         "y":151.806447722899
-                        }, 
-                        {
-                         "x":-107.974938635878,
-                         "y":133.632956809921
-                        }, 
-                        {
-                         "x":-131.495,
-                         "y":78.0414772717554
-                        }],
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/noticeboards.vooo.space\/?board=og"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":1710.49818259568,
-                 "y":3705.36668804789
-                }, 
-                {
-                 "class":"area",
-                 "height":0,
-                 "id":39,
+                 "height":125.271733333333,
+                 "id":42,
                  "name":"noticeboard-saal",
-                 "polygon":[
-                        {
-                         "x":-167.842672760316,
-                         "y":-26.7265704939064
-                        }, 
-                        {
-                         "x":-76.9724932435322,
-                         "y":-23.5193477656617
-                        }, 
-                        {
-                         "x":-45.9696227710072,
-                         "y":-49.1768796236906
-                        }, 
-                        {
-                         "x":-42.7624522771007,
-                         "y":52.383293136626
-                        }, 
-                        {
-                         "x":-94.0772022664098,
-                         "y":68.4202567885395
-                        }, 
-                        {
-                         "x":-168.912147744281,
-                         "y":90.8702363694674
-                        }],
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1718,9 +1570,43 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":0,
-                 "x":1518.06713705367,
-                 "y":2808.42420354928
+                 "width":120.826666666667,
+                 "x":1340.92,
+                 "y":2781.36413333333
+                }, 
+                {
+                 "class":"area",
+                 "height":101.272,
+                 "id":44,
+                 "name":"whiteboard",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"k3b2U8RfjKzogXkrzoHz8r6SPsf5Kqnc"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":228.827,
+                 "x":2643.5865,
+                 "y":2606.69733333333
+                }, 
+                {
+                 "class":"area",
+                 "height":58.605333333333,
+                 "id":45,
+                 "name":"scratchpad",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/19Zyz7jO4b1ZbkP7-fax-3fVKPPFh4QZXnnTffQCkDpA\/edit?usp=sharing"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":228.827,
+                 "x":2657.5865,
+                 "y":2885.364
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2992,7 +2878,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":40,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "properties":[
         {
