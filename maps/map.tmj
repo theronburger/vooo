@@ -3975,7 +3975,7 @@
         {
          "columns":100,
          "firstgid":59239,
-         "image":"..\/..\/vooo-assets\/animations\/snake-small.png",
+         "image":"..\/tilesets\/snake-small.png",
          "imageheight":64,
          "imagewidth":3200,
          "margin":0,
