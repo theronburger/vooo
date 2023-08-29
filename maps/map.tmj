@@ -501,7 +501,7 @@
          "name":"special",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":124,
          "x":0,
          "y":0
@@ -559,95 +559,6 @@
                  "width":157.395030778398,
                  "x":2754.59942060291,
                  "y":3088.22005597474
-                }, 
-                {
-                 "class":"area",
-                 "height":0,
-                 "id":25,
-                 "name":"ArbeitsRaum",
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":-63.8247577023089,
-                         "y":-64.6127176739424
-                        }, 
-                        {
-                         "x":-18.9110393192027,
-                         "y":-78.7959971633441
-                        }, 
-                        {
-                         "x":1.57591994326685,
-                         "y":-118.193995745016
-                        }, 
-                        {
-                         "x":-23.6387991490033,
-                         "y":-158.379954298322
-                        }, 
-                        {
-                         "x":-164.644135224688,
-                         "y":-162.820801228895
-                        }, 
-                        {
-                         "x":-200.985931552902,
-                         "y":-224.703728395307
-                        }, 
-                        {
-                         "x":-208.809392482862,
-                         "y":-287.605389646206
-                        }, 
-                        {
-                         "x":-287.605389646206,
-                         "y":-286.029469702939
-                        }, 
-                        {
-                         "x":-393.979985816721,
-                         "y":-231.660231660232
-                        }, 
-                        {
-                         "x":-440.469624143094,
-                         "y":-161.531794184855
-                        }, 
-                        {
-                         "x":-468.836183121898,
-                         "y":-115.830115830116
-                        }, 
-                        {
-                         "x":-381.372626270585,
-                         "y":-63.8247577023085
-                        }, 
-                        {
-                         "x":-366.40138680955,
-                         "y":-3.15183988653371
-                        }],
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ArbeitsRaum"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":0,
-                 "x":2845.32345756836,
-                 "y":2875.26593649043
                 }, 
                 {
                  "class":"area",
@@ -770,7 +681,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":235.503604268662,
+                 "height":226.170270935329,
                  "id":52,
                  "name":"jitsiBar",
                  "properties":[
@@ -794,11 +705,56 @@
                          "type":"float",
                          "value":1
                         }],
-                 "rotation":22.0971180257819,
+                 "rotation":0,
                  "visible":true,
                  "width":550.648587991843,
-                 "x":1716.85958623898,
-                 "y":3694.36410109979
+                 "x":1584.85958623898,
+                 "y":3774.36410109979
+                }, 
+                {
+                 "class":"area",
+                 "height":155.39,
+                 "id":54,
+                 "name":"miji-ih-hara-shin",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/preview.vooo.space\/tables\/miji-ih-hara-shin"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":268.061666666666,
+                 "x":2478.63583333333,
+                 "y":2711.63833333333
+                }, 
+                {
+                 "class":"website",
+                 "height":281.333333333333,
+                 "id":56,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":476,
+                 "x":1333.33333333333,
+                 "y":2234.66666666667
+                }, 
+                {
+                 "class":"website",
+                 "height":284,
+                 "id":59,
+                 "name":"Saal Leinwand",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/I37kUbwoldQ?si=my9I7H55lbE_RGKN"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":473.333333333333,
+                 "x":1336,
+                 "y":2232
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1891,7 +1847,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":54,
+ "nextobjectid":60,
  "orientation":"orthogonal",
  "properties":[
         {
