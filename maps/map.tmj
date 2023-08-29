@@ -778,13 +778,35 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":1
+                         "value":0
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":874.014666666667,
                  "x":1484.326,
                  "y":417.909166666667
+                }, 
+                {
+                 "class":"area",
+                 "height":178.848666666667,
+                 "id":63,
+                 "name":"Cave of discovery",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":10
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":134.015,
+                 "x":584.325833333333,
+                 "y":1075.909
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1877,7 +1899,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":63,
+ "nextobjectid":64,
  "orientation":"orthogonal",
  "properties":[
         {
