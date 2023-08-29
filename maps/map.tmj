@@ -501,7 +501,7 @@
          "name":"special",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":124,
          "x":0,
          "y":0
