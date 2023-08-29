@@ -525,7 +525,7 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":1
+                         "value":0
                         }],
                  "rotation":0,
                  "visible":true,
@@ -686,11 +686,6 @@
                          "value":"Bar"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -751,6 +746,45 @@
                  "width":473.333333333333,
                  "x":1336,
                  "y":2232
+                }, 
+                {
+                 "class":"website",
+                 "height":281.333,
+                 "id":60,
+                 "name":"See Buehne",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/player.vimeo.com\/video\/482636554"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":476,
+                 "x":1686,
+                 "y":454.000166666667
+                }, 
+                {
+                 "class":"area",
+                 "height":616.181666666667,
+                 "id":61,
+                 "name":"See Focus Zone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":874.014666666667,
+                 "x":1484.326,
+                 "y":417.909166666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1843,7 +1877,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":60,
+ "nextobjectid":63,
  "orientation":"orthogonal",
  "properties":[
         {
