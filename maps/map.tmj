@@ -512,6 +512,7 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"area",
                  "height":81.5146871008942,
                  "id":18,
                  "name":"jitsiMeetingRoom",
@@ -537,13 +538,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":222.014474244359,
                  "x":1444.70072371222,
                  "y":2536.82928905917
                 }, 
                 {
+                 "class":"area",
                  "height":171.389917285717,
                  "id":23,
                  "name":"diplomatique",
@@ -554,13 +555,13 @@
                          "value":"https:\/\/lcb.de\/en\/diplomatique\/"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":157.395030778398,
                  "x":2754.59942060291,
                  "y":3088.22005597474
                 }, 
                 {
+                 "class":"area",
                  "height":0,
                  "id":25,
                  "name":"ArbeitsRaum",
@@ -643,13 +644,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":0,
                  "x":2845.32345756836,
                  "y":2875.26593649043
                 }, 
                 {
+                 "class":"area",
                  "height":166.589708759954,
                  "id":27,
                  "name":"dichterlesen",
@@ -660,13 +661,13 @@
                          "value":"https:\/\/www.dichterlesen.net"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":155.793994311718,
                  "x":2756.21108020478,
                  "y":3263.03791012514
                 }, 
                 {
+                 "class":"area",
                  "height":149.27175539876,
                  "id":32,
                  "name":"noticeboard-start",
@@ -677,13 +678,13 @@
                          "value":"https:\/\/noticeboards.vooo.space\/?board=start"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":179.493692537951,
                  "x":1944.10049176823,
                  "y":4285.33290570878
                 }, 
                 {
+                 "class":"area",
                  "height":71.9383666666663,
                  "id":41,
                  "name":"noticeboard-og",
@@ -694,13 +695,13 @@
                          "value":"https:\/\/noticeboards.vooo.space\/?board=og"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":150.16,
                  "x":2242.25333333333,
                  "y":3191.36415
                 }, 
                 {
+                 "class":"area",
                  "height":125.271733333333,
                  "id":42,
                  "name":"noticeboard-saal",
@@ -711,13 +712,13 @@
                          "value":"https:\/\/noticeboards.vooo.space\/?board=saal"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":120.826666666667,
                  "x":1340.92,
                  "y":2781.36413333333
                 }, 
                 {
+                 "class":"area",
                  "height":101.272,
                  "id":44,
                  "name":"whiteboard",
@@ -728,13 +729,13 @@
                          "value":"https:\/\/wbo.ophir.dev\/boards\/Nxi9vqxBjz4-7mTDSxRnnEGHX3Y8RJql43QaGCh62OI-"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":228.827,
                  "x":2643.5865,
                  "y":2606.69733333333
                 }, 
                 {
+                 "class":"area",
                  "height":69.2719999999999,
                  "id":45,
                  "name":"scratchpad",
@@ -745,13 +746,13 @@
                          "value":"https:\/\/docs.google.com\/document\/d\/19Zyz7jO4b1ZbkP7-fax-3fVKPPFh4QZXnnTffQCkDpA\/edit?usp=sharing"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":255.493666666666,
                  "x":2657.5865,
                  "y":2885.364
                 }, 
                 {
+                 "class":"",
                  "height":0,
                  "id":48,
                  "name":"",
@@ -762,11 +763,42 @@
                          "value":""
                         }],
                  "rotation":0,
-                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":2336,
                  "y":3176
+                }, 
+                {
+                 "class":"area",
+                 "height":235.503604268662,
+                 "id":52,
+                 "name":"jitsiBar",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Bar"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":22.0971180257819,
+                 "visible":true,
+                 "width":550.648587991843,
+                 "x":1716.85958623898,
+                 "y":3694.36410109979
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -780,6 +812,7 @@
          "name":"silentZones",
          "objects":[
                 {
+                 "class":"area",
                  "height":0,
                  "id":30,
                  "name":"",
@@ -1300,13 +1333,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":0,
                  "x":1845.38135944892,
                  "y":2563.69823221844
                 }, 
                 {
+                 "class":"area",
                  "height":0,
                  "id":31,
                  "name":"",
@@ -1342,7 +1375,6 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":0,
                  "x":2246.5695883506,
@@ -1859,7 +1891,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":51,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1888,7 +1920,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -3819,6 +3851,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.10",
+ "version":"1.9",
  "width":124
 }
