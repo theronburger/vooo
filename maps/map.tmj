@@ -513,24 +513,14 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":81.5146871008942,
+                 "height":905.514687100894,
                  "id":18,
-                 "name":"jitsiMeetingRoom",
+                 "name":"Saal Focus Zone",
                  "properties":[
                         {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -539,9 +529,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":222.014474244359,
-                 "x":1444.70072371222,
-                 "y":2536.82928905917
+                 "width":567.347807577692,
+                 "x":1304.70072371222,
+                 "y":2202.1626223925
                 }, 
                 {
                  "class":"area",
