@@ -721,7 +721,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/vimeo.com\/event\/3671782"
+                         "value":"https:\/\/vimeo.com\/event\/3671782\/embed"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -755,7 +755,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/vimeo.com\/event\/3671782"
+                         "value":"http:\/\/noticeboards.vooo.space\/?board=start"
                         }],
                  "rotation":0,
                  "type":"website",
