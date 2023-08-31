@@ -714,23 +714,6 @@
                  "y":2711.63833333333
                 }, 
                 {
-                 "height":281.333,
-                 "id":60,
-                 "name":"See Buehne",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/vimeo.com\/event\/3671782\/embed"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":476,
-                 "x":1686,
-                 "y":454.000166666667
-                }, 
-                {
                  "height":616.181666666667,
                  "id":61,
                  "name":"See Focus Zone",
@@ -807,6 +790,23 @@
                  "width":476,
                  "x":1332,
                  "y":2235.3335
+                }, 
+                {
+                 "height":281.999666666667,
+                 "id":66,
+                 "name":"See Buehne",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/vimeo.com\/event\/3673206\/embed"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":480.666666666667,
+                 "x":1686,
+                 "y":451.3335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1898,8 +1898,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":59,
- "nextobjectid":66,
+ "nextlayerid":60,
+ "nextobjectid":67,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -3854,6 +3854,44 @@
                          "tileid":199
                         }],
                  "id":109
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":39814,
+         "image":"..\/tilesets\/dragonfly red-small.png",
+         "imageheight":160,
+         "imagewidth":384,
+         "margin":0,
+         "name":"anim-dragonfly",
+         "spacing":0,
+         "tilecount":60,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":6
+                        }],
+                 "id":0
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":7
+                        }],
+                 "id":1
                 }],
          "tilewidth":32
         }],
