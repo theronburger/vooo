@@ -714,7 +714,7 @@
                  "y":2711.63833333333
                 }, 
                 {
-                 "height":616.181666666667,
+                 "height":335.998273900493,
                  "id":61,
                  "name":"See Focus Zone",
                  "properties":[
@@ -770,7 +770,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":408.062,
+                 "width":379.194620139242,
                  "x":1063.969,
                  "y":742.305
                 }, 
@@ -807,6 +807,33 @@
                  "width":480.667,
                  "x":1687.6665,
                  "y":451.606060606061
+                }, 
+                {
+                 "height":525.032285617253,
+                 "id":69,
+                 "name":"jitsiBar",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Bar"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":910.642207675327,
+                 "x":1449.92596697232,
+                 "y":802.180749702836
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1899,7 +1926,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":69,
+ "nextobjectid":70,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1928,7 +1955,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
