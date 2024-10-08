@@ -714,7 +714,7 @@
                  "y":2501.79771378647
                 }, 
                 {
-                 "height":335.998273900493,
+                 "height":324.530383992236,
                  "id":61,
                  "name":"See Focus Zone",
                  "properties":[
@@ -790,23 +790,6 @@
                  "width":476,
                  "x":1332,
                  "y":2235.3335
-                }, 
-                {
-                 "height":282,
-                 "id":68,
-                 "name":"See Buehne",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/vimeo.com\/event\/3673284\/embed"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":480.667,
-                 "x":1687.6665,
-                 "y":451.606060606061
                 }, 
                 {
                  "height":525.032285617253,
