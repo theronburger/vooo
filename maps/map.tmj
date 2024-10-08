@@ -558,7 +558,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.dichterlesen.net"
+                         "value":"https:\/\/www.dichterlesen.net\/veranstaltungen\/detail\/verlegerinnen-ohne-grenzen-3156\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -619,21 +619,21 @@
                  "y":2781.36413333333
                 }, 
                 {
-                 "height":101.272,
+                 "height":93.1682722852515,
                  "id":44,
                  "name":"whiteboard",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.sketchtogether.com\/s\/sketch\/QIXWT.1.1\/"
+                         "value":"https:\/\/lcb.de\/lcb-digital\/skizzenblog\/"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":228.827,
-                 "x":2643.5865,
-                 "y":2606.69733333333
+                 "width":173.113871961102,
+                 "x":2688.15700243112,
+                 "y":2594.54174176121
                 }, 
                 {
                  "height":69.2719999999999,
@@ -697,21 +697,21 @@
                  "y":3774.36410109979
                 }, 
                 {
-                 "height":155.39,
+                 "height":150.325170178282,
                  "id":54,
-                 "name":"miji-ih-hara-shin",
+                 "name":"vooo-fenster",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/preview.vooo.space\/tables\/miji-ih-hara-shin"
+                         "value":"https:\/\/www.vooo.space\/windows\/nacha-vollenweider"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":268.061666666666,
-                 "x":2478.63583333333,
-                 "y":2711.63833333333
+                 "width":181.95955969746,
+                 "x":2504.12535097675,
+                 "y":2501.79771378647
                 }, 
                 {
                  "height":335.998273900493,
@@ -770,8 +770,8 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":379.194620139242,
-                 "x":1063.969,
+                 "width":349.452386167002,
+                 "x":1093.71123397224,
                  "y":742.305
                 }, 
                 {
@@ -782,7 +782,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/vimeo.com\/event\/3671782\/embed"
+                         "value":"https:\/\/vimeo.com\/624363839"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -834,6 +834,23 @@
                  "width":910.642207675327,
                  "x":1449.92596697232,
                  "y":802.180749702836
+                }, 
+                {
+                 "height":111.832463533225,
+                 "id":70,
+                 "name":"miji-ih-hara-shin",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.vooo.space\/tables\/logan-february-tg-28-9-23"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":199.180314424635,
+                 "x":2515.5853449992,
+                 "y":2721.54505458902
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1926,7 +1943,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":70,
+ "nextobjectid":71,
  "orientation":"orthogonal",
  "properties":[
         {
