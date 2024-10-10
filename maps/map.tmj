@@ -602,23 +602,6 @@
                  "y":3191.36415
                 }, 
                 {
-                 "height":125.271733333333,
-                 "id":42,
-                 "name":"noticeboard-saal",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/noticeboards.vooo.space\/?board=saal"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":120.826666666667,
-                 "x":1340.92,
-                 "y":2781.36413333333
-                }, 
-                {
                  "height":93.1682722852515,
                  "id":44,
                  "name":"whiteboard",
@@ -714,7 +697,7 @@
                  "y":2501.79771378647
                 }, 
                 {
-                 "height":809.812802448879,
+                 "height":650.703812790963,
                  "id":61,
                  "name":"See Focus Zone",
                  "properties":[
@@ -792,7 +775,7 @@
                  "y":2235.3335
                 }, 
                 {
-                 "height":429.566891822503,
+                 "height":266.48017742314,
                  "id":69,
                  "name":"jitsiBar",
                  "properties":[
