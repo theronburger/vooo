@@ -714,7 +714,7 @@
                  "y":2501.79771378647
                 }, 
                 {
-                 "height":324.530383992236,
+                 "height":809.812802448879,
                  "id":61,
                  "name":"See Focus Zone",
                  "properties":[
@@ -782,7 +782,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/vimeo.com\/video\/624363839\/embed"
+                         "value":"https:\/\/player.vimeo.com\/video\/624363839"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -792,7 +792,7 @@
                  "y":2235.3335
                 }, 
                 {
-                 "height":525.032285617253,
+                 "height":429.566891822503,
                  "id":69,
                  "name":"jitsiBar",
                  "properties":[
@@ -1417,7 +1417,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
